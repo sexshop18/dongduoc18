@@ -9,9 +9,9 @@
 		exit();
 	}
 	$config['database']['servername'] = 'localhost';
-	$config['database']['username'] = 'dongd782_user';
-	$config['database']['password'] = 'Eo3h;0+GZ;Cv';
-	$config['database']['database'] = 'dongd782_data';
+	$config['database']['username'] = '';
+	$config['database']['password'] = '';
+	$config['database']['database'] = '';
 	$config['database']['refix'] = 'table_';
 	
 	$ip_host = '112.213.89.41';
